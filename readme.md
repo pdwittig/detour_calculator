@@ -14,7 +14,7 @@ Clone the repo:
 git clone https://github.com/pdwittig/detour_calculator.git
 ```
 
-Naviagte into the directory:
+Navigate into the directory:
 
 ```
 cd detour_calculator
